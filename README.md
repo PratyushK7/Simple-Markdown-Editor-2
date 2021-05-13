@@ -28,3 +28,4 @@ Simple-Markdown-Editor uses a number of open source libraries to work properly:
  [git-repo-url]: https://github.com/PratyushK7/gi-pics
  [node.js]: http://nodejs.org/
  [ReactJs]: http://reactjs.org/
+ [ReactMarkdown]: https://www.npmjs.com/package/react-markdown
