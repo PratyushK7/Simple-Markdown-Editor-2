@@ -22,7 +22,7 @@ This is a simple Markdown Editor made using ReactJS
 Simple-Markdown-Editor uses a number of open source libraries to work properly:
 
 * [ReactJs] - HTML enhanced for web apps!
-* [ReactMarkdown] - https://www.npmjs.com/package/react-markdown
+* [ReactMarkdown] - Markdown component for React using remark.
 * [node.js] - evented I/O for the backend
 
  [git-repo-url]: https://github.com/PratyushK7/gi-pics
