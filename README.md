@@ -6,7 +6,7 @@ PoweredBy :
 ![Author](https://img.shields.io/badge/author-Pratyush%20Kumar-lightgrey.svg?colorB=9900cc&style=flat-square)
 
 # Preview
-![Gi-Pics](https://github.com/PratyushK7/Resources/blob/main/Gi-Pics-LightTheme.jpg)
+![Markdown-Editor](https://github.com/PratyushK7/Resources/blob/main/MarkdownEditor-LightTheme.png)
 
 # Introduction
 This is a simple Markdown Editor made using ReactJS
@@ -16,8 +16,6 @@ This is a simple Markdown Editor made using ReactJS
 # New Features!
 
   - DarkMode 
- 
-<img src="https://github.com/PratyushK7/Resources/blob/main/MarkdownEditor-LightTheme.png" width="800">
  
 # Technologies Used
 
