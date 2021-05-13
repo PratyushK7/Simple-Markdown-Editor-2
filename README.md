@@ -6,7 +6,7 @@ PoweredBy :
 ![Author](https://img.shields.io/badge/author-Pratyush%20Kumar-lightgrey.svg?colorB=9900cc&style=flat-square)
 
 # Preview
-![Markdown-Editor](https://github.com/PratyushK7/Resources/blob/main/chrome_6ltSigWK6Z.png
+![Markdown-Editor](https://github.com/PratyushK7/Resources/blob/main/chrome_6ltSigWK6Z.png)
 # Introduction
 This is a simple Markdown Editor made using ReactJS
 
