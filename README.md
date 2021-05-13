@@ -17,13 +17,8 @@ This is a simple Markdown Editor made using ReactJS
 
   - DarkMode 
  
-<img src="https://github.com/PratyushK7/README/blob/main/DarkMode.gif" width="800">
+<img src="https://github.com/PratyushK7/Resources/blob/main/MarkdownEditor-LightTheme.png" width="800">
  
-# API
-* [Pixabay]- Over 1.8 million+ high quality stock images and videos.
-* [Unsplash] - largest open collection of high-quality photos.
-* [Tenor] - most relevant GIF search in over 35 languages worldwide.
-
 # Technologies Used
 
 Simple-Markdown-Editor uses a number of open source libraries to work properly:
